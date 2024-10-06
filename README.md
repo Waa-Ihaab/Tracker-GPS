@@ -4,19 +4,19 @@ Real-Time GPS Tracker
 
 
 
-Description
+
 This project provides a real-time GPS tracker based on the ESP8266 and a GPS module, integrating interactive maps and a user-friendly mobile application. Our solution addresses the growing need for location tracking and management, with potential applications in various sectors such as logistics, security, and fleet management.
 
 The mobile application allows users to track movements in real-time and provides accurate location updates.
 
-Features
+
 Real-time tracking: Provides accurate GPS data for real-time location updates.
 ESP8266 & GPS module integration: Combines the ESP8266 microcontroller with a GPS module for efficient location tracking.
 Mobile Application: A simple and intuitive app to visualize movements on the map.
 WiFi connectivity: Uses WiFi to send location data to a remote server or cloud service.
 Customizable: Can be tailored to specific tracking needs in various industries.
 
-Hardware Requirements
+
 ESP8266 Module
 Module GPS Neo-6M
 Traccar 
